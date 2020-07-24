@@ -1,3 +1,11 @@
+header{
+    font-size: x-large;
+    margin-right: 5%;
+    margin-left: 5%;  
+    border-color: gray;
+    border-bottom-style: solid;
+}
+
 #textBody {
     margin-left: 5%;
     margin-right: 5%;
