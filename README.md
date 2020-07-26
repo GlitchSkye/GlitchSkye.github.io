@@ -1,3 +1,5 @@
 # skyerin8.github.io
 
-resume site
+resume site for practice 
+
+## using bulma.io
