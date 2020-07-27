@@ -36,3 +36,11 @@ body > footer {
     height: 10px;
 }
 /* to here */
+
+footer a {
+    color: white;
+}
+
+footer a:hover {
+    color: black;
+}
