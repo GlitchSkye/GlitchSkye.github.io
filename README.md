@@ -6,6 +6,5 @@ resume site for practice
 
 todo
 * rewrite the content
-* resize footer
 * add some js maybe
 

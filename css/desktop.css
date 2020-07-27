@@ -1,3 +1,11 @@
 footer a:hover {
     color: grey;
 }
+
+#repoLink:hover{
+    color: black;
+}
+
+#NFWarning{
+    margin-top: 15%;
+}
