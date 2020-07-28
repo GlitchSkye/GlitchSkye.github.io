@@ -18,5 +18,5 @@ typewriter
     .typeString('I am a programmer')
     .pauseFor(500)
     .deleteChars(10)
-    .typeString('Software Engineer')
+    .typeString('Software Engineer.')
     .start()
