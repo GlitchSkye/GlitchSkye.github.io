@@ -3,9 +3,13 @@ footer a:hover {
 }
 
 #repoLink:hover{
-    color: black;
+    color: grey;
 }
 
 #NFWarning{
     margin-top: 15%;
+}
+
+#nameText{
+    margin-top: 20%;
 }

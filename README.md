@@ -1,10 +1,10 @@
 # skyerin8.github.io
 
-resume site for practice 
+CV site for practice 
 
 ## using bulma.io
+## using https://safi.me.uk/typewriterjs/
 
 todo
 * rewrite the content
-* add some js maybe
 
