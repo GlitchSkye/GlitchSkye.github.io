@@ -15,7 +15,7 @@ typewriter
     .typeString('Hello World!')
     .pauseFor(1000)
     .deleteAll()
-    .typeString('I am a programmer')
+    .typeString('I am an aspiring programmer')
     .pauseFor(500)
     .deleteChars(10)
     .typeString('Software Engineer.')
