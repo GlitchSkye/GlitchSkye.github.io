@@ -1,4 +1,4 @@
-# skyerin8.github.io
+# GlitchSkye.github.io
 <br>
 Made with https://bulma.io/
 <br>
