@@ -1,58 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="css/styles.css" />
   <title>Skye's Portfolio</title>
 </head>
+
 <body>
-  <header role="banner">
-    <h1><span id="greeting"></span>, I'm Skye! 👾</h1>
-  </header>
+  <div id="app">
 
-  <main role="main">
-    <section id="about" aria-labelledby="about-heading">
-      <h2 id="about-heading">&gt; About Me</h2>
-      <p>I am a UK-based Software Developer.</p>
-    </section>
+    <header role="banner">
+      <h1><span id="greeting"></span>, I'm Skye! 👾</h1>
+    </header>
 
-    <section id="qualifications" aria-labelledby="qualifications-heading">
-      <h2 id="qualifications-heading">&gt; Qualifications</h2>
-      <ul>
-        <li>Something</li>
-        <li>Something</li>
-        <li>Something</li>
-      </ul>
-    </section>
+    <main role="main">
+      <section id="about" aria-labelledby="about-heading">
+        <h2 id="about-heading">&gt; About Me</h2>
+        <p>I am a UK-based Software Developer.</p>
+      </section>
 
-    <section id="projects" aria-labelledby="projects-heading">
-      <h2 id="projects-heading">&gt; Projects</h2>
-      <ul>
-        <li>Something</li>
-        <li>Something</li>
-        <li>Something</li>
-      </ul>
-    </section>
+      <section id="qualifications" aria-labelledby="qualifications-heading">
+        <h2 id="qualifications-heading">&gt; Qualifications</h2>
+        <ul>
+          <li>Something</li>
+          <li>Something</li>
+          <li>Something</li>
+        </ul>
+      </section>
 
-    <section id="contact" aria-labelledby="contact-heading">
-      <h2 id="contact-heading">&gt; Contact</h2>
-      <p>
-        Email:
-        <a href="mailto:test@gmail.com" aria-label="Email Skye at test@gmail.com" style="color:#00ffc8;">
-          test@gmail.com
-        </a>
-      </p>
-      <button class="button" onclick="alert('Email sent 😊')" aria-label="Click to say hi to Skye">
-        Say Hi!
-      </button>
-    </section>
-  </main>
+      <section id="projects" aria-labelledby="projects-heading">
+        <h2 id="projects-heading">&gt; Projects</h2>
+        <ul>
+          <li>Something</li>
+          <li>Something</li>
+          <li>Something</li>
+        </ul>
+      </section>
 
-  <footer role="contentinfo">
-    &copy; 2025 Skye — Built with 💖
-  </footer>
+      <section id="contact" aria-labelledby="contact-heading">
+        <h2 id="contact-heading">&gt; Contact</h2>
+        <p>
+          Email:
+          <a href="mailto:test@gmail.com" aria-label="Email Skye at test@gmail.com" style="color:#00ffc8;">
+            test@gmail.com
+          </a>
+        </p>
+        <button class="button" onclick="alert('Email sent 😊')" aria-label="Click to say hi to Skye">
+          Say Hi!
+        </button>
+      </section>
+    </main>
+
+    <footer role="contentinfo">
+      &copy; 2025 Skye — Built with 💖
+    </footer>
+  </div>
 </body>
 <script src="js/script.js" defer></script>
-</html>
 
+</html>
